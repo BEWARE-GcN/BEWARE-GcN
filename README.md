@@ -1,5 +1,5 @@
 ## Hi there 👋
-🔥 GitHub Profile Description (Full English)
+🔥 
 
 Hi, I build things that analyze, automate, and scale.
 I'm currently focused on creating smart tools for the crypto market—automation systems, data-driven utilities, and lightweight services that help make faster and more informed decisions.
